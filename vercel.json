@@ -1,6 +1,7 @@
 {
   "version": 2,
   "public": true,
+  "regions": ["hkg1"],
   "rewrites": [
     {
       "source": "/(.*)",
